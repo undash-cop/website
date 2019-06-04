@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://vikramtiwari.com/sitemap.xml
+Sitemap: http://Undash-cop.com/sitemap.xml
