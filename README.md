@@ -1,7 +1,7 @@
-vikramtiwari.github.io
+Undash-cop.github.io
 ======================
 
-Github repo for Vikram Tiwari's Website
+Github repo for Undash-cop's Website
 
 ## How to get your own?
 1. Fork the repo
